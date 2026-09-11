@@ -4,15 +4,14 @@ My learning journey with Pandas in Python, including practice and hands-on work.
 
 ## 📚 What I Have Learned
 
-* Pandas basics
-* Series and DataFrames
-* Reading data
-* Working with CSV, JSON, and Excel files
-* Exploring data
-* Describing data
+- Pandas basics
+- DataFrames
+- Reading & saving data
+- Data exploration
+- Data summary
 
-## 🛠️ Practice
+## 📂 Practice
 
-This repository contains my Pandas practice files, datasets, and exercises as I continue learning.
+Contains my Pandas practice files, datasets, and exercises.
 
 🚀 More topics and projects will be added as I progress.
