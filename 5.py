@@ -1,4 +1,5 @@
 import pandas as pd
+
 data={
     "name":["Aisha","Ahmed","Ali","Marium","Musfeerah","Hina","Usama","Fatimah","Zara","Bilal"],
     "age":[19,18,24,20,32,34,26,28,21,22],
@@ -7,5 +8,5 @@ data={
 
 }
 df=pd.DataFrame(data)
-print(df)
-print(df.describe())
+print(df.shape)
+print(df.columns)
