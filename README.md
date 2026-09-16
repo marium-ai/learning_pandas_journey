@@ -1,17 +1,40 @@
 # 🐼 Pandas Learning Journey
 
-My learning journey with Pandas in Python, including practice and hands-on work.
+This repository contains my **Pandas practice and mini projects** as I learn and improve my data analysis skills with Python.
 
-## 📚 What I Have Learned
+I’m practicing Pandas concepts through small examples and applying them in practical projects.
 
-- Pandas basics
-- DataFrames
-- Reading & saving data
-- Data exploration
-- Data summary
+## 📚 What I’ve Learned
 
-## 📂 Practice
+* Creating and working with DataFrames
+* Reading and saving CSV, Excel, and JSON files
+* Exploring data with `head()`, `tail()`, `info()`, and `describe()`
+* Filtering data
+* Adding and updating data
+* Accessing rows and columns with `.loc`
+* Handling missing values
+* Dropping rows and columns
+* Interpolation
+* Basic data cleaning
 
-Contains my Pandas practice files, datasets, and exercises.
+## 🚀 Mini Projects
 
-🚀 More topics and projects will be added as I progress.
+### 🤖 AI Usage Data Cleaning
+
+A small project where I created an AI tool usage dataset and practiced:
+
+* Data exploration
+* Finding missing values
+* Cleaning missing data with `fillna()`
+* Using `mean()` for missing numerical values
+* Saving cleaned data to CSV and Excel
+
+## 🛠️ Tools Used
+
+* 🐍 Python
+* 🐼 Pandas
+* 📄 CSV
+* 📊 Excel
+* 💻 VS Code
+
+> 🚀 Learning Pandas by practicing concepts and building small projects.
