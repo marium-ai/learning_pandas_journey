@@ -1,0 +1,16 @@
+Date,Tool,Task,Time_Minutes,Success,Rating
+2026-09-01,ChatGPT,Coding,45.0,Yes,5.0
+2026-09-02,Gemini,Research,30.0,Yes,4.0
+2026-09-03,Claude,Writing,25.0,Yes,5.0
+2026-09-04,ChatGPT,Debugging,60.0,Yes,5.0
+2026-09-05,Copilot,Coding,40.0,No,3.0
+2026-09-06,Gemini,Study,35.0,Yes,4.0
+2026-09-07,ChatGPT,Research,50.0,Yes,5.0
+2026-09-08,Claude,Coding,55.0,Yes,4.0
+2026-09-09,Copilot,Debugging,30.0,No,2.0
+2026-09-10,ChatGPT,Study,40.0,Yes,5.0
+2026-09-11,Gemini,Writing,20.0,Yes,4.0
+2026-09-12,Claude,Research,40.714285714285715,Yes,5.0
+2026-09-13,ChatGPT,Coding,70.0,Yes,4.142857142857143
+2026-09-14,Copilot,Coding,45.0,No,3.0
+2026-09-15,Gemini,Study,25.0,Yes,4.0
