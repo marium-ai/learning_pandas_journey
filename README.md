@@ -15,6 +15,8 @@ I’m practicing Pandas concepts through small examples and applying them in pra
 * Handling missing values
 * Dropping rows and columns
 * Interpolation
+* Sorting data
+* Grouping data with `groupby()`
 * Basic data cleaning
 
 ## 🚀 Mini Projects
@@ -37,4 +39,5 @@ A small project where I created an AI tool usage dataset and practiced:
 * 📊 Excel
 * 💻 VS Code
 
-> 🚀 Learning Pandas by practicing concepts and building small projects.
+> 🚀 Learning Pandas by practicing and building projects.
+ing concepts and building small projects.
