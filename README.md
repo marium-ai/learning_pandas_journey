@@ -17,6 +17,7 @@ I’m practicing Pandas concepts through small examples and applying them in pra
 * Interpolation
 * Sorting data
 * Grouping data with `groupby()`
+* Merging and concatenating DataFrames
 * Basic data cleaning
 
 ## 🚀 Mini Projects
@@ -31,6 +32,21 @@ A small project where I created an AI tool usage dataset and practiced:
 * Using `mean()` for missing numerical values
 * Saving cleaned data to CSV and Excel
 
+### 🛒 Online Shopping Behavior Analyzer
+
+A small data analysis project based on online shopping orders.
+
+I practiced:
+
+* Analyzing order data
+* Counting categories and cities
+* Calculating average prices
+* Analyzing returned products
+* Grouping data by category
+* Sorting products by rating
+* Finding the most expensive product
+* Saving data to CSV and Excel
+
 ## 🛠️ Tools Used
 
 * 🐍 Python
@@ -40,4 +56,3 @@ A small project where I created an AI tool usage dataset and practiced:
 * 💻 VS Code
 
 > 🚀 Learning Pandas by practicing and building projects.
-ing concepts and building small projects.
