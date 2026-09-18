@@ -1,0 +1,16 @@
+customer_id,customer,category,product,price,rating,payment_method,city,returned
+101,Aisha,Electronics,Headphones,4500,4.5,Card,Karachi,No
+102,Ahmed,Clothing,Hoodie,3200,4.0,Cash,Lahore,Yes
+103,Sara,Beauty,Face Wash,1200,4.8,Card,Karachi,No
+104,Waqas,Electronics,Keyboard,2800,4.2,Bank Transfer,Islamabad,No
+105,Marium,Books,Python Book,1800,4.7,Cash,Karachi,No
+106,Ali,Clothing,T-Shirt,2200,3.9,Card,Lahore,Yes
+107,Hina,Beauty,Lip Balm,850,4.6,Cash,Karachi,No
+108,Usman,Books,Novel,1500,4.1,Card,Islamabad,No
+109,Fatima,Electronics,Mouse,1900,4.3,Bank Transfer,Karachi,Yes
+110,Bilal,Clothing,Jeans,3500,4.0,Cash,Lahore,No
+111,Zara,Beauty,Sunscreen,1600,4.9,Card,Karachi,No
+112,Hamza,Electronics,Smart Watch,7500,4.4,Card,Islamabad,Yes
+113,Sana,Books,AI Book,2200,4.8,Cash,Karachi,No
+114,Danish,Clothing,Jacket,4200,3.8,Bank Transfer,Lahore,Yes
+115,Areeba,Beauty,Perfume,3000,4.5,Card,Karachi,No
